@@ -11,6 +11,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Platform-As-A-Service-Apaas/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Platform-As-A-Service-Apaas/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Platform-As-A-Service-Apaas/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Enterprise-Platform-As-A-Service-Apaas?style=flat-square" alt="Last Commit"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -32,6 +33,8 @@
 - [🏗️ Recommended Architecture Blueprints](#️-recommended-architecture-blueprints)
 - [❓ Frequently Asked Questions (FAQ)](#-frequently-asked-questions-faq)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [⚖️ Disclaimer & Governance](#️-disclaimer--governance)
 
 ---
@@ -254,6 +257,27 @@ We welcome community contributions, platform additions, and performance benchmar
 5. 📬 Submit a **Pull Request** detailing your changes.
 
 ⭐ **If this repository helps your engineering or IT strategy, please star the project!**
+
+---
+
+## 💖 Support
+
+A heartfelt **thank you** to everyone exploring, using, and contributing to this ecosystem! If you find this curated directory useful for your research, team, or enterprise architecture decisions, please consider supporting this repository:
+
+- ⭐ **Star this repo** on GitHub to support its growth and help others discover it.
+- 🍴 **Fork and share** with fellow developers, architects, and community members.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance, research, and platform benchmarks via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Enterprise-Platform-As-A-Service-Apaas&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Enterprise-Platform-As-A-Service-Apaas&type=date&legend=top-left)
 
 ---
 
