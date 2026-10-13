@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Platform-As-A-Service-Apaas/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Platform-As-A-Service-Apaas?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Platform-As-A-Service-Apaas/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Platform-As-A-Service-Apaas?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Platform-As-A-Service-Apaas/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Platform-As-A-Service-Apaas?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Platform-As-A-Service-Apaas/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Platform-As-A-Service-Apaas/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License"/></a>
@@ -98,105 +98,105 @@ Open-source aPaaS projects allow enterprises to self-host, avoid vendor lock-in,
 
 ### Top Open-Source Projects (Ranked by Stars)
 
-The list below is **sorted descending by GitHub star count**. Beside each platform name, the star badge links directly to that repository's stargazers page:
+The list below is **sorted descending by GitHub Stars_Count**. Beside each platform name, the Stars_Badge links directly to that repository's stargazers page:
 
-1. **[Supabase](https://github.com/supabase/supabase)** [![GitHub stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers)  
+1. **[Supabase](https://github.com/supabase/supabase)** [![GitHub_Stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers)  
    *Apache-2.0 / Elixir & TypeScript* • **111,400+ stars**  
    The premier open-source Firebase alternative. Provides a dedicated PostgreSQL database, instant REST & GraphQL APIs, real-time change data capture, authentication, vector search, edge functions, and object storage.
    
-2. **[Strapi](https://github.com/strapi/strapi)** [![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers)  
+2. **[Strapi](https://github.com/strapi/strapi)** [![GitHub_Stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers)  
    *MIT / JavaScript & TypeScript* • **73,300+ stars**  
    Leading open-source headless CMS and backend runtime. Fully customizable, developer-first framework for modeling data schemas and auto-generating secure REST & GraphQL endpoints.
 
-3. **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+3. **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
    *AGPL-3.0 / TypeScript & Vue* • **65,200+ stars**  
    Free and self-hostable Airtable alternative that turns any relational database (PostgreSQL, MySQL, MariaDB, SQLite, SQL Server) into a collaborative smart spreadsheet with grid, gallery, form, and kanban views.
 
-4. **[PocketBase](https://github.com/pocketbase/pocketbase)** [![GitHub stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&color=white)](https://github.com/pocketbase/pocketbase/stargazers)  
+4. **[PocketBase](https://github.com/pocketbase/pocketbase)** [![GitHub_Stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&color=white)](https://github.com/pocketbase/pocketbase/stargazers)  
    *MIT / Go & Svelte* • **61,300+ stars**  
    Open-source realtime backend embedded into a single portable binary file. Includes embedded SQLite with real-time subscriptions, user authentication, file management, and an administrative web dashboard.
 
-5. **[Metabase](https://github.com/metabase/metabase)** [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
+5. **[Metabase](https://github.com/metabase/metabase)** [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
    *AGPL-3.0 / Clojure & JavaScript* • **49,600+ stars**  
    The gold-standard open-source business intelligence and embedded analytics tool. Allows business users to build dashboards, visualize relational databases, and generate automated company reports without SQL.
 
-6. **[JeecgBoot](https://github.com/jeecgboot/JeecgBoot)** [![GitHub stars](https://img.shields.io/github/stars/jeecgboot/JeecgBoot?style=social&color=white)](https://github.com/jeecgboot/JeecgBoot/stargazers)  
+6. **[JeecgBoot](https://github.com/jeecgboot/JeecgBoot)** [![GitHub_Stars](https://img.shields.io/github/stars/jeecgboot/JeecgBoot?style=social&color=white)](https://github.com/jeecgboot/JeecgBoot/stargazers)  
    *Apache-2.0 / Java & Vue3* • **48,100+ stars**  
    Battle-tested enterprise low-code development platform based on Spring Boot and Ant Design Vue. Provides online visual code generators, form designers, workflow engines, and granular RBAC permissions.
 
-7. **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
+7. **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub_Stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
    *AGPL-3.0 / TypeScript & React* • **41,100+ stars**  
    Open-source enterprise low-code application builder with 50+ pre-built UI components, AI agents, MCP integration, visual workflow designer, and instant connectivity to databases, APIs, and cloud services.
 
-8. **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
+8. **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub_Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
    *Apache-2.0 / Java & TypeScript* • **41,000+ stars**  
    Visual development platform for engineering teams to rapidly create internal tools, admin panels, customer portals, and CRUD applications connecting to 25+ SQL/NoSQL databases and REST APIs.
 
-9. **[Directus](https://github.com/directus/directus)** [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
+9. **[Directus](https://github.com/directus/directus)** [![GitHub_Stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
    *BPSL / TypeScript & Vue* • **38,400+ stars**  
    Open-source data engine that dynamically converts any SQL database schema into real-time GraphQL and REST APIs alongside a no-code administrative data studio.
 
-10. **[Refine](https://github.com/refinedev/refine)** [![GitHub stars](https://img.shields.io/github/stars/refinedev/refine?style=social&color=white)](https://github.com/refinedev/refine/stargazers)  
+10. **[Refine](https://github.com/refinedev/refine)** [![GitHub_Stars](https://img.shields.io/github/stars/refinedev/refine?style=social&color=white)](https://github.com/refinedev/refine/stargazers)  
     *MIT / TypeScript & React* • **35,800+ stars**  
     Modern React-based meta-framework for crafting internal tools, enterprise admin panels, CRM systems, and B2B web applications with total frontend styling flexibility (Ant Design, Material UI, Mantine, Tailwind).
 
-11. **[Budibase](https://github.com/Budibase/budibase)** [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
+11. **[Budibase](https://github.com/Budibase/budibase)** [![GitHub_Stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
     *GPL-3.0 / TypeScript & Svelte* • **28,300+ stars**  
     Comprehensive low-code platform for building secure internal applications, multi-step forms, automated approval workflows, and operations portals in minutes with Docker self-hosting.
 
-12. **[NocoBase](https://github.com/nocobase/nocobase)** [![GitHub stars](https://img.shields.io/github/stars/nocobase/nocobase?style=social&color=white)](https://github.com/nocobase/nocobase/stargazers)  
+12. **[NocoBase](https://github.com/nocobase/nocobase)** [![GitHub_Stars](https://img.shields.io/github/stars/nocobase/nocobase?style=social&color=white)](https://github.com/nocobase/nocobase/stargazers)  
     *AGPL-3.0 / TypeScript & React* • **24,500+ stars**  
     Highly extensible, plugin-driven no-code and low-code platform designed for bespoke enterprise systems. Features WYSIWYG page configuration, relational data modeling, and customizable workflow automations.
 
-13. **[Teable](https://github.com/teableio/teable)** [![GitHub stars](https://img.shields.io/github/stars/teableio/teable?style=social&color=white)](https://github.com/teableio/teable/stargazers)  
+13. **[Teable](https://github.com/teableio/teable)** [![GitHub_Stars](https://img.shields.io/github/stars/teableio/teable?style=social&color=white)](https://github.com/teableio/teable/stargazers)  
     *AGPL-3.0 / TypeScript & PostgreSQL* • **21,800+ stars**  
     Ultra-responsive, real-time no-code spreadsheet-database built natively on PostgreSQL. Serves as a lightning-fast Airtable alternative with million-row scalability and full SQL query compatibility.
 
-14. **[Amis (Baidu)](https://github.com/baidu/amis)** [![GitHub stars](https://img.shields.io/github/stars/baidu/amis?style=social&color=white)](https://github.com/baidu/amis/stargazers)  
+14. **[Amis (Baidu)](https://github.com/baidu/amis)** [![GitHub_Stars](https://img.shields.io/github/stars/baidu/amis?style=social&color=white)](https://github.com/baidu/amis/stargazers)  
     *Apache-2.0 / TypeScript & React* • **18,800+ stars**  
     JSON-to-page frontend framework developed by Baidu. Assembles complex enterprise back-office management interfaces, tables, and CRUD forms entirely using declarative JSON schemas.
 
-15. **[Windmill](https://github.com/windmill-labs/windmill)** [![GitHub stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)  
+15. **[Windmill](https://github.com/windmill-labs/windmill)** [![GitHub_Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)  
     *AGPL-3.0 / Rust & Svelte* • **18,100+ stars**  
     High-performance developer platform and workflow engine that transforms Python, TypeScript, and Go scripts into background workers, cron jobs, webhooks, and auto-generated internal UIs.
 
-16. **[ILLA Cloud](https://github.com/illacloud/illa-builder)** [![GitHub stars](https://img.shields.io/github/stars/illacloud/illa-builder)](https://github.com/illacloud/illa-builder/stargazers)  
+16. **[ILLA Cloud](https://github.com/illacloud/illa-builder)** [![GitHub_Stars](https://img.shields.io/github/stars/illacloud/illa-builder)](https://github.com/illacloud/illa-builder/stargazers)  
     *Apache-2.0 / Go & TypeScript* • **12,300+ stars**  
     Open-source low-code platform for building internal dashboards, admin panels, and CRUD apps. Integrates with PostgreSQL, MySQL, Supabase, Redis, and native AI agents.
 
-17. **[RuoYi](https://github.com/yangzongzhuan/RuoYi)** [![GitHub stars](https://img.shields.io/github/stars/yangzongzhuan/RuoYi?style=social&color=white)](https://github.com/yangzongzhuan/RuoYi/stargazers)  
+17. **[RuoYi](https://github.com/yangzongzhuan/RuoYi)** [![GitHub_Stars](https://img.shields.io/github/stars/yangzongzhuan/RuoYi?style=social&color=white)](https://github.com/yangzongzhuan/RuoYi/stargazers)  
     *MIT / Java & Vue* • **8,600+ stars**  
     Popular Java enterprise permission management scaffolding framework based on Spring Boot and Shiro/Spring Security. Features code generation, department management, and operational audit logs.
 
-18. **[Baserow](https://github.com/baserow/baserow)** [![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)  
+18. **[Baserow](https://github.com/baserow/baserow)** [![GitHub_Stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)  
     *MIT / Python & Django* • **6,100+ stars**  
     Open-source no-code database and application platform with spreadsheet UI, automations, and AI Assistant (Kuma). GDPR, HIPAA, and SOC 2 Type II compliant with self-hosting options.
 
-19. **[Oinone](https://github.com/oinone/oinone-pamirs)** [![GitHub stars](https://img.shields.io/github/stars/oinone/oinone-pamirs?style=social&color=white)](https://github.com/oinone/oinone-pamirs/stargazers)  
+19. **[Oinone](https://github.com/oinone/oinone-pamirs)** [![GitHub_Stars](https://img.shields.io/github/stars/oinone/oinone-pamirs?style=social&color=white)](https://github.com/oinone/oinone-pamirs/stargazers)  
     *AGPL-3.0 / Java & TypeScript* • **2,300+ stars**  
     AI-powered, metadata- and model-driven low-code framework unifying AI agents and human software engineers around a shared domain model. Built for large-scale enterprise ERP, MES, and supply-chain systems.
 
-20. **[Saltcorn](https://github.com/saltcorn/saltcorn)** [![GitHub stars](https://img.shields.io/github/stars/saltcorn/saltcorn?style=social&color=white)](https://github.com/saltcorn/saltcorn/stargazers)  
+20. **[Saltcorn](https://github.com/saltcorn/saltcorn)** [![GitHub_Stars](https://img.shields.io/github/stars/saltcorn/saltcorn?style=social&color=white)](https://github.com/saltcorn/saltcorn/stargazers)  
     *MIT / JavaScript & Node.js* • **2,000+ stars**  
     Completely free and extensible open-source no-code web application and database builder on PostgreSQL with customizable point-and-click UI views, user permissions, and plugins.
 
-21. **[Lowcoder](https://github.com/lowcoder-org/lowcoder)** [![GitHub stars](https://img.shields.io/github/stars/lowcoder-org/lowcoder?style=social&color=white)](https://github.com/lowcoder-org/lowcoder/stargazers)  
+21. **[Lowcoder](https://github.com/lowcoder-org/lowcoder)** [![GitHub_Stars](https://img.shields.io/github/stars/lowcoder-org/lowcoder?style=social&color=white)](https://github.com/lowcoder-org/lowcoder/stargazers)  
     *AGPL-3.0 / TypeScript & React* • **1,600+ stars**  
     Open-source Retool alternative with 120+ built-in UI components, native website embedding (no iframes), custom JavaScript modules, and enterprise single sign-on (SSO).
 
-22. **[CUBA Platform](https://github.com/cuba-platform/cuba)** [![GitHub stars](https://img.shields.io/github/stars/cuba-platform/cuba?style=social&color=white)](https://github.com/cuba-platform/cuba/stargazers)  
+22. **[CUBA Platform](https://github.com/cuba-platform/cuba)** [![GitHub_Stars](https://img.shields.io/github/stars/cuba-platform/cuba?style=social&color=white)](https://github.com/cuba-platform/cuba/stargazers)  
     *Apache-2.0 / Java & Vaadin* • **1,300+ stars**  
     High-level enterprise rapid development framework for Java enterprise software. Features an extensive ecosystem for business process automation, generic UI generation, and reporting.
 
-23. **[Joget DX](https://github.com/jogetworkflow/jw-community)** [![GitHub stars](https://img.shields.io/github/stars/jogetworkflow/jw-community?style=social&color=white)](https://github.com/jogetworkflow/jw-community/stargazers)  
+23. **[Joget DX](https://github.com/jogetworkflow/jw-community)** [![GitHub_Stars](https://img.shields.io/github/stars/jogetworkflow/jw-community?style=social&color=white)](https://github.com/jogetworkflow/jw-community/stargazers)  
     *GPL-3.0 / Java & Spring* • **610+ stars**  
     Open-source low-code platform combining business process automation (BPA), workflow management, and rapid app development for cloud and on-premise deployments.
 
-24. **[Convertigo](https://github.com/convertigo/convertigo)** [![GitHub stars](https://img.shields.io/github/stars/convertigo/convertigo?style=social&color=white)](https://github.com/convertigo/convertigo/stargazers)  
+24. **[Convertigo](https://github.com/convertigo/convertigo)** [![GitHub_Stars](https://img.shields.io/github/stars/convertigo/convertigo?style=social&color=white)](https://github.com/convertigo/convertigo/stargazers)  
     *AGPL-3.0 / Java & TypeScript* • **380+ stars**  
     Full-stack enterprise low-code platform engineered for offline-first mobile apps, legacy system backend integration, and enterprise security governance.
 
-25. **[Rintagi](https://github.com/Rintagi/Low-Code-Development-Platform)** [![GitHub stars](https://img.shields.io/github/stars/Rintagi/Low-Code-Development-Platform?style=social&color=white)](https://github.com/Rintagi/Low-Code-Development-Platform/stargazers)  
+25. **[Rintagi](https://github.com/Rintagi/Low-Code-Development-Platform)** [![GitHub_Stars](https://img.shields.io/github/stars/Rintagi/Low-Code-Development-Platform?style=social&color=white)](https://github.com/Rintagi/Low-Code-Development-Platform/stargazers)  
     *GPL-3.0 / C# & .NET* • **330+ stars**  
     Battle-tested model-driven low-code application development platform generating high-throughput, mission-critical web and mobile database applications.
 
